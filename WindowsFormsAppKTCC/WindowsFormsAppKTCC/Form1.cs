@@ -17,6 +17,16 @@ namespace WindowsFormsAppKTCC
             InitializeComponent();
         }
 
-     
+        private void btnLogin_Click(object sender, EventArgs e)
+        {
+            if(txtUserName.Text=="admin" && txtPassword.Text=="admin")
+            {
+                MessageBox.Show("Đăng nhập thành công!");
+            }
+            else
+            {
+                MessageBox.Show("Đăng nhập thất bại");
+            }
+        }
     }
 }
