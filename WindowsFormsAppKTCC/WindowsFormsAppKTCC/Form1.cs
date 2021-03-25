@@ -22,6 +22,9 @@ namespace WindowsFormsAppKTCC
             if(txtUserName.Text=="admin" && txtPassword.Text=="admin")
             {
                 MessageBox.Show("Đăng nhập thành công!");
+                FormLoginSuccess l = new FormLoginSuccess();
+                l.Show();
+                this.Hide();
             }
             else
             {

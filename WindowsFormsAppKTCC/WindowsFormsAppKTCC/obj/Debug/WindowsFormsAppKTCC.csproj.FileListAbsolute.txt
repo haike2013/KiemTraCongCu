@@ -8,3 +8,14 @@ C:\Users\PHUOC-PC\Source\Repos\KiemTraCongCu\WindowsFormsAppKTCC\WindowsFormsApp
 C:\Users\PHUOC-PC\Source\Repos\KiemTraCongCu\WindowsFormsAppKTCC\WindowsFormsAppKTCC\obj\Debug\WindowsFormsAppKTCC.csproj.CoreCompileInputs.cache
 C:\Users\PHUOC-PC\Source\Repos\KiemTraCongCu\WindowsFormsAppKTCC\WindowsFormsAppKTCC\obj\Debug\WindowsFormsAppKTCC.exe
 C:\Users\PHUOC-PC\Source\Repos\KiemTraCongCu\WindowsFormsAppKTCC\WindowsFormsAppKTCC\obj\Debug\WindowsFormsAppKTCC.pdb
+C:\Users\ASUS\source\repos\KiemTraCongCu\WindowsFormsAppKTCC\WindowsFormsAppKTCC\bin\Debug\WindowsFormsAppKTCC.exe.config
+C:\Users\ASUS\source\repos\KiemTraCongCu\WindowsFormsAppKTCC\WindowsFormsAppKTCC\bin\Debug\WindowsFormsAppKTCC.exe
+C:\Users\ASUS\source\repos\KiemTraCongCu\WindowsFormsAppKTCC\WindowsFormsAppKTCC\bin\Debug\WindowsFormsAppKTCC.pdb
+C:\Users\ASUS\source\repos\KiemTraCongCu\WindowsFormsAppKTCC\WindowsFormsAppKTCC\obj\Debug\WindowsFormsAppKTCC.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\KiemTraCongCu\WindowsFormsAppKTCC\WindowsFormsAppKTCC\obj\Debug\WindowsFormsAppKTCC.Form1.resources
+C:\Users\ASUS\source\repos\KiemTraCongCu\WindowsFormsAppKTCC\WindowsFormsAppKTCC\obj\Debug\WindowsFormsAppKTCC.Properties.Resources.resources
+C:\Users\ASUS\source\repos\KiemTraCongCu\WindowsFormsAppKTCC\WindowsFormsAppKTCC\obj\Debug\WindowsFormsAppKTCC.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\KiemTraCongCu\WindowsFormsAppKTCC\WindowsFormsAppKTCC\obj\Debug\WindowsFormsAppKTCC.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\KiemTraCongCu\WindowsFormsAppKTCC\WindowsFormsAppKTCC\obj\Debug\WindowsFormsAppKTCC.exe
+C:\Users\ASUS\source\repos\KiemTraCongCu\WindowsFormsAppKTCC\WindowsFormsAppKTCC\obj\Debug\WindowsFormsAppKTCC.pdb
+C:\Users\ASUS\source\repos\KiemTraCongCu\WindowsFormsAppKTCC\WindowsFormsAppKTCC\obj\Debug\WindowsFormsAppKTCC.FormLoginSuccess.resources
